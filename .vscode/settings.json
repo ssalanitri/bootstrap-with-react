@@ -1,0 +1,5 @@
+{
+    "loremWhatever.defaultLorem": "Lorem Ipsum",
+    "loremWhatever.loremIpsumBehaviour": "Random",
+    "loremWhatever.minWordCount": 10
+}

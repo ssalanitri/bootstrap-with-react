@@ -1,0 +1,39 @@
+[
+  {
+    "id":1,
+    "name": "Chicago Pizza",
+    "image": "/images/chicago.jpg",
+    "desc": "Et aute enim aliquip elit nisi ullamco labore.",
+    "price": 9
+  },
+  {
+    "id":2,
+    "name": "BA Pizza",
+    "image": "/images/ba.jpg",
+    "desc": "Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec.",
+    "price": 12
+  },
+  {
+    "id":3,
+    "name": "NY Pizza",
+    "image": "/images/ny.jpg",
+    "desc": "Semper aeterno percipit ut his, sea ex utinam referrentur repudiandae.",
+    "price": 8
+  },
+  {
+    "id":4,
+    "name": "Comodoro Pizza",
+    "image": "/images/comodoro.jpg",
+    "desc": "Partiendo adversarium no mea. Vivendum intellegat et qui, ei denique consequuntur vix.",
+    "price": 15
+  },
+  {
+    "id":5,
+    "name": "Miranda Pizza",
+    "image": "/images/miranda.jpg",
+    "desc": "Nibh detracto incorrupte eos eu, iuvaret perfecto eam in, his eu possit dolorum temporibus.",
+    "price": 10
+  }
+]
+
+
