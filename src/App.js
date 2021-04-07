@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.scss'
+import './assets/css/App.scss'
 
 import {Container, Row, Col} from 'react-bootstrap';
 import OrderConfirmation from './components/OrderConfirmation'
