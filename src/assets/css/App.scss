@@ -21,13 +21,12 @@ body {
   margin: 20px 0;
   padding: 0;
   line-height: 1;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif, Arial;
   color: #202020;
   background-color: #fbfbfb;
   font-smooth: always;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
 
 .card {
@@ -42,7 +41,21 @@ body {
 .card .text-desc {
   word-wrap: break-word;
   line-height: 25px;
+  font-size: medium;
+  width: auto;
+  height: auto;
+
 }
+
+.card .text-name {
+
+  word-wrap: break-word;
+  align-items: center;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
 
 .toast.show {
   position: absolute;
@@ -53,12 +66,10 @@ body {
 }
 
 .card .images {
-  border-radius: 10%;
+  border-radius: 20%;
+  margin: 25px;
   max-width: 100%;
+  //width: auto;
   height: auto;
-}
 
-.card-fluid {
-  display: flex;
-  flex-wrap: wrap;
 }
