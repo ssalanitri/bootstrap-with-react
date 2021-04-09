@@ -29,8 +29,8 @@ const App = () => {
   return (
     <>
      <Container className="bd-highlight">
-       <p className="text-center title"> Pizzas R.E.A.C.T </p>
-       <p className="text-center subtitle">Las mejoras pizzas</p>
+       <p className="text-center title"> R.E.A.C.T Pizzas</p>
+       <p className="text-center subtitle">The best pizzas on the cloud</p>
      </Container>
      
      
